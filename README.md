@@ -4,7 +4,7 @@
   <h2 align="center"><i><u>Swedish Related Only</i></u></h2>
 </p>
 
-Ordlisten innehåller lösenord från **3 440 321**  __unika__ svenska .se logins och filen är **43M** stor. Ordlistan är sorterad efter bokstavsordning. 
+Ordlisten innehåller lösenord från **3 440 321**  __unika__ svenska .se logins och filen är **43M** stor. Ordlistan är sorterad efter bokstavsordning, jag har bara tagit med lösenord som är 35 rader långt för tillfället.
 
 Ordlistan 'swedish_wordlist.txt' är troligen den största ordlistan du kommer hitta och få tag på och jag kommer uppdatera den till och från med fler svenska lösenord från '.se' konton.
 
