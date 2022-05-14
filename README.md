@@ -12,8 +12,6 @@ Ordlistan är INTE från en uppslagsbok utan det är från svenskarnas login dom
 
 Svenska Lösenord som INTE slutar på **.se** är inte för tillfället med i ordlistan.
 
-Se exempeL:
-
 forrnamm.efternamn.svensktkonto@gmail.**com** har **INTE** tagits med i denna första commit men fornam.efternamn.svenskdatabas@live.**se** & dinmail@svensk_dns.**se** ingår.
 
 Ordlistan börjar med lösenord som har ett mellanslag börjar vi inte på 0
