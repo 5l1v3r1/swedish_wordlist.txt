@@ -14,6 +14,5 @@ Svenska Lösenord som INTE slutar på **.se** är inte för tillfället med i or
 
 forrnamm.efternamn.svensktkonto@gmail.**com** har **INTE** tagits med i denna första commit men fornam.efternamn.svenskdatabas@live.**se** & dinmail@svensk_dns.**se** ingår.
 
-Ordlistan börjar med lösenord som har ett mellanslag börjar vi inte på 0
-
+Ordlistan börjar med lösenord som har ett mellanslag så därför börjar vi inte på 0, ju mer mellanslag i lösenordet ju högre upp hamnar lösenordet. 
 
