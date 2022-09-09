@@ -9,7 +9,7 @@ it is much more efficient to use real passwords from breaches than to take them 
 
 | Source                                   | Filename                           | Amount            | Size(KB)      | Added             |
 | :--------------------------------------- | :--------------------------------- | :---------------- | :-------------| :-----------------| 
-| Breachcompilation Breach                 | breachcompilation.txt              | 731 44 2st        | 6800kb        | 2022-09-10       | 
+| Breachcompilation Breach                 | breachcompilation.txt              | 731 442 st        | 6800kb        | 2022-09-10       | 
 | 3w                                       | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
 | andelshastar                             | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
 | anstalten                                | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
