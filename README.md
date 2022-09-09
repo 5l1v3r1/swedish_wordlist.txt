@@ -1,18 +1,60 @@
 <p align="center">
   <img width="120px" src="https://spng.subpng.com/20210519/hfl/transparent-dictionary-icon-english-icon-file-and-document-ico-60a4ec62b2c5a4.6659269716214211547323.jpg" />
-  <h1 align="center"># Svensk Ordlista </h1>
+  <h1 align="center"># Swedish Wordlists </h1>
   <h2 align="center"><i><u>:sweden: Swedish Related Only 🇸🇪</i></u></h2>
 </p>
 
-Ordlistan innehåller lösenord från **3 440 321**  __unika__ svenska .se logins och filen är **43M** stor. Ordlistan är sorterad efter bokstavsordning, jag har bara tagit med lösenord som är 35 rader långt för tillfället.
+I have chosen to use passwords from Swedish accounts from various breaches here, 
+it is much more efficient to use real passwords from breaches than to take them from a dictionary.
 
-Ordlistan 'swedish_wordlist.txt' är troligen den största ordlistan du kommer hitta och få tag på och jag kommer uppdatera den till och från med fler svenska lösenord från '.se' konton.
-
-Ordlistan är INTE från en uppslagsbok utan det är från svenskarnas login dom är hämtade.
-
-Svenska Lösenord som INTE slutar på **.se** är inte för tillfället med i ordlistan.
-
-forrnamm.efternamn.svensktkonto@gmail.**com** har **INTE** tagits med i denna första commit men fornam.efternamn.svenskdatabas@live.**se** & dinmail@svensk_dns.**se** ingår.
-
-Ordlistan börjar med lösenord som har ett mellanslag så därför börjar vi inte på 0, ju mer mellanslag i lösenordet ju högre upp hamnar lösenordet. 
-
+| Source                                   | Filename                           | Amount            | Size(KB)      | Added             |
+| :--------------------------------------- | :--------------------------------- | :---------------- | :-------------| :-----------------| 
+| Breachcompilation Breach                 | breachcompilation.txt              | 731 44 2st        | 6800kb        | 2022-09-10       | 
+| 3w                                       | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| andelshastar                             | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| anstalten                                | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| bergvarme                                | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| bergvarme-info                           | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| biljett.nu                               | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| bloggtoppen                              | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| bosidan                                  | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| canis                                    | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| chemotechnique                           | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| cityhairextensions                       | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| clydesdale                               | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| dastar                                   | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| dif_hockey.se                            | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| dif.hockey.se.save                       | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| digideal                                 | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| dramadirekt                              | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| dreamhack                                | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| flashback                                | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| flygbasjagarna                           | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| fodax                                    | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| forum                                    | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| fuska                                    | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| gamers                                   | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| glowinghair                              | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| graceteahouse                            | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| gratisbios                               | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| gratisgodis                              | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| h2o-diving                               | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| jonmark                                  | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| m.loading                                | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| multid                                   | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| nordtrafik                               | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| palmungmellin                            | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| pimpelkungen                             | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| piscatus                                 | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| pvs                                      | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| reaklader                                | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| righteducation                           | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| s-hi                                     | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| skovdeik                                 | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| svenskabio                               | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| swebmx                                   | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| tips                                     | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| tolkabro                                 | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| ungdomar                                 | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| vgregion                                 | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
+| ystadplantskola                          | swedish_wordlist.txt               | 3 347 17st        | 38000kb       | 2022-05-14       |
