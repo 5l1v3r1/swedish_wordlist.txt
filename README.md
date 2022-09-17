@@ -4,8 +4,16 @@
   <h2 align="center"><i><u>:sweden: Swedish Related Only 🇸🇪</i></u></h2>
 </p>
 
-I have chosen to use passwords from Swedish accounts from various breaches here, 
-it is much more efficient to use real passwords from breaches than to take them from a dictionary.
+#### Type the following sed command to delete a carriage Return (CR)
+```bash
+sed 's/\r//' combolist.txt > combolist1.txt
+```
+#### Type the following sed command to replace a linefeed(LF)
+```bash
+sed ':a;N;$!ba;s/\n//g' combolist1.txt > combolist.txt
+```
+
+Only passwords from '@[A-Za-z0-9].se' logins and sorted in the word lists in this repository, it's way more powerful then use random "words" from various collections. here we store REAL passwords from .se accounts.
 
 | Source                                   | Filename                           | Amount            | Size(KB)      | Added             |
 | :--------------------------------------- | :--------------------------------- | :---------------- | :-------------| :-----------------| 
